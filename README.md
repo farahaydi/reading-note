@@ -18,6 +18,7 @@ Feel free to explore the different sections and topics covered in my reading jou
 | Introduction to SQL                       | [SQL](./SQL.md)                        |
 | Terminal                                  | [Terminal](./Terminal.md)              |
 | MindSet                                   | [Mindset](./mindset.md)                |
+| Class 02                                  | [class2](./ReadingClass2.md)           |
 
 
 ## Things I want to know more about:
