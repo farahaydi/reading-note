@@ -21,7 +21,7 @@ Feel free to explore the different sections and topics covered in my reading jou
 
 
 ## Things I want to know more about:
-1- i want to know more about programming and that's why i'm on Asac
-2- i need to improve my communication skilles 
-3- i need to know more about oop and Algo
+ - i want to know more about programming and that's why i'm on Asac
+ - i need to improve my communication skilles 
+ - i need to know more about oop and Algo
 
