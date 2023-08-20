@@ -11,7 +11,6 @@ Feel free to explore the different sections and topics covered in my reading jou
 **Happy reading!**
 
 ## Code 401 - Advanced Software Development
-
 | Task                               | Link                         |
 |------------------------------------|------------------------------|
 | class 01                           | [class1](./ReadingClass1.md) |
@@ -22,7 +21,8 @@ Feel free to explore the different sections and topics covered in my reading jou
 | Class 03                           | [class3](./ReadingClass3.md) |
 | Class 04                           | [class4](./ReadingClass4.md) |
 | Class 05                           | [class5](./ReadingClass5.md) |
-| Class 06                           | [class6](ReadingClass6.md)   |
+| Class 06                           | [class6](./ReadingClass6.md) |
+
 ## Things I want to know more about:
  - i want to know more about programming and that's why i'm on Asac
  - i need to improve my communication skilles 
