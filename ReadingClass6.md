@@ -19,7 +19,7 @@ we can use the static keyword in Java. If we want to access class members withou
 
 >What is a Design Pattern? Describe one or two with analogies from your previous work experience.
 Design Pattern: A reusable solution to common software design problems. It's like using proven blueprints for solving challenges in software development.
-Singleton Pattern, Observer Pattern
+
 >What is a Singleton?
 
 Singleton :In Java, Singleton is a design pattern that ensures that a class can only have one object.
