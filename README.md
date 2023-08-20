@@ -34,3 +34,18 @@ Feel free to explore the different sections and topics covered in my reading jou
  - i need to improve my communication skilles 
  - i need to know more about oop and Algo
 
+
+ > ///////////////////////////////////
+ | Task                               | Link                         |
+|------------------------------------|------------------------------|
+| class 01                           | [class1](./ReadingClass1.md) |
+| Introduction to SQL                | [SQL](./SQL.md)              |
+| Terminal                           | [Terminal](./Terminal.md)    |
+| MindSet                            | [Mindset](./mindset.md)      |
+| Class 02                           | [class2](./ReadingClass2.md) |
+| Class 03                           | [class3](./ReadingClass3.md) |
+| Class 04                           | [class4](./ReadingClass4.md) |
+| Class 05                           | [class5](./ReadingClass5.md) |
+| Class 06                           | [class6](./ReadingClass6.md) |
+
+
