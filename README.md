@@ -19,8 +19,7 @@ Feel free to explore the different sections and topics covered in my reading jou
  - i need to know more about oop and Algo
 
 
- > ///////////////////////////////////
- | Task                               | Link                         |
+| Task                               | Link                         |
 |------------------------------------|------------------------------|
 | class 01                           | [class1](./ReadingClass1.md) |
 | Introduction to SQL                | [SQL](./SQL.md)              |
