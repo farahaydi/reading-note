@@ -30,5 +30,4 @@ Feel free to explore the different sections and topics covered in my reading jou
 | Class 04                           | [class4](./ReadingClass4.md) |
 | Class 05                           | [class5](./ReadingClass5.md) |
 | Class 06                           | [class6](./ReadingClass6.md) |
-
-
+| class 08                           | [class8](./ReadingClass8.md) |
