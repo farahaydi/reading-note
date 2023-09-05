@@ -33,5 +33,6 @@ Feel free to explore the different sections and topics covered in my reading jou
 | class 08                            | [class8](./ReadingClass8.md) |
 | class 09                            |  [class9](./ReadingClass9.md)|
  | class10                             | [Class10](./ReadingClass10.md)|
- | class11                             | [Class11](./ReadingClass11.md) |
-| class12                             | [Class12](./ReadingClass12.md)  |
+ | class11                             | [Class11](./ReadingClass11.md)|
+| class12                             | [Class12](./ReadingClass12.md)|
+ | class13                             | [Class13] (./ReadingClass13.md)| 
