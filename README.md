@@ -38,3 +38,4 @@ Feel free to explore the different sections and topics covered in my reading jou
  | class13             | [Class13](./ReadingClass13.md) | 
 | class14             | [Class14](./ReadingClass14.md) | 
 | class15             | [Class15](./ReadingClass15.md) | 
+| class16             | [Class16](./ReadingClass16.md) | 
