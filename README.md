@@ -43,4 +43,6 @@ Feel free to explore the different sections and topics covered in my reading jou
 | class18             | [Class18](./ReadingClass18.md) |
 | class19             | [Class19](./ReadingClass19.md) |
 | class26             | [Class26](./ReadingClass26.md) |
+| class27             | [Class27](./ReadingClass27.md) |
+
 
