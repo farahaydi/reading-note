@@ -51,6 +51,8 @@ Feel free to explore the different sections and topics covered in my reading jou
 | class32             | [Class32](./ReadingClass32.md) |
 | class33             | [Class33](./ReadingClass33.md) |
 | class34             | [Class34](./ReadingClass34.md) |
+| class35             | [Class35](./ReadingClass35.md) |
+
 
 
 
