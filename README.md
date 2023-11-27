@@ -55,6 +55,7 @@ Feel free to explore the different sections and topics covered in my reading jou
 | class36             | [Class36](./ReadingClass36.md) |
 | class37             | [Class37](./ReadingClass37.md) |
 | class38             | [Class38](./ReadingClass38.md) |
+| class39             | [Class39](./ReadingClass39.md) |
 
 
 
