@@ -19,44 +19,46 @@ Feel free to explore the different sections and topics covered in my reading jou
  - i need to know more about oop and Algo
 
 
-| Task                | Link                           |
-|---------------------|--------------------------------|
-| class 01            | [class1](./ReadingClass1.md)   |
-| Introduction to SQL | [SQL](./SQL.md)                |
-| Terminal            | [Terminal](./Terminal.md)      |
-| MindSet             | [Mindset](./mindset.md)        |
-| Class 02            | [class2](./ReadingClass2.md)   |
-| Class 03            | [class3](./ReadingClass3.md)   |
-| Class 04            | [class4](./ReadingClass4.md)   |
-| Class 05            | [class5](./ReadingClass5.md)   |
-| Class 06            | [class6](./ReadingClass6.md)   |
-| class 08            | [class8](./ReadingClass8.md)   |
-| class 09            | [class9](./ReadingClass9.md)   |
- | class10             | [Class10](./ReadingClass10.md) |
- | class11             | [Class11](./ReadingClass11.md) |
-| class12             | [Class12](./ReadingClass12.md) |
- | class13             | [Class13](./ReadingClass13.md) | 
-| class14             | [Class14](./ReadingClass14.md) | 
-| class15             | [Class15](./ReadingClass15.md) | 
-| class16             | [Class16](./ReadingClass16.md) | 
-| class17             | [Class17](./ReadingClass17.md) | 
-| class18             | [Class18](./ReadingClass18.md) |
-| class19             | [Class19](./ReadingClass19.md) |
-| class26             | [Class26](./ReadingClass26.md) |
-| class27             | [Class27](./ReadingClass27.md) |
-| class28             | [Class28](./ReadingClass28.md) |
-| class29             | [Class29](./ReadingClass29.md) |
-| class30             | [Class30](./ReadingClass30.md) |
-| class31             | [Class31](./ReadingClass31.md) |
-| class32             | [Class32](./ReadingClass32.md) |
-| class33             | [Class33](./ReadingClass33.md) |
-| class34             | [Class34](./ReadingClass34.md) |
-| class35             | [Class35](./ReadingClass35.md) |
-| class36             | [Class36](./ReadingClass36.md) |
-| class37             | [Class37](./ReadingClass37.md) |
-| class38             | [Class38](./ReadingClass38.md) |
-| class39             | [Class39](./ReadingClass39.md) |
-| class40             | [Class39](./ReadingClass40.md) |
+| Task                | Link                            |
+|---------------------|---------------------------------|
+| class 01            | [class1](./ReadingClass1.md)    |
+| Introduction to SQL | [SQL](./SQL.md)                 |
+| Terminal            | [Terminal](./Terminal.md)       |
+| MindSet             | [Mindset](./mindset.md)         |
+| Class 02            | [class2](./ReadingClass2.md)    |
+| Class 03            | [class3](./ReadingClass3.md)    |
+| Class 04            | [class4](./ReadingClass4.md)    |
+| Class 05            | [class5](./ReadingClass5.md)    |
+| Class 06            | [class6](./ReadingClass6.md)    |
+| class 08            | [class8](./ReadingClass8.md)    |
+| class 09            | [class9](./ReadingClass9.md)    |
+ | class10             | [Class10](./ReadingClass10.md)  |
+ | class11             | [Class11](./ReadingClass11.md)  |
+| class12             | [Class12](./ReadingClass12.md)  |
+ | class13             | [Class13](./ReadingClass13.md)  | 
+| class14             | [Class14](./ReadingClass14.md)  | 
+| class15             | [Class15](./ReadingClass15.md)  | 
+| class16             | [Class16](./ReadingClass16.md)  | 
+| class17             | [Class17](./ReadingClass17.md)  | 
+| class18             | [Class18](./ReadingClass18.md)  |
+| class19             | [Class19](./ReadingClass19.md)  |
+| class26             | [Class26](./ReadingClass26.md)  |
+| class27             | [Class27](./ReadingClass27.md)  |
+| class28             | [Class28](./ReadingClass28.md)  |
+| class29             | [Class29](./ReadingClass29.md)  |
+| class30             | [Class30](./ReadingClass30.md)  |
+| class31             | [Class31](./ReadingClass31.md)  |
+| class32             | [Class32](./ReadingClass32.md)  |
+| class33             | [Class33](./ReadingClass33.md)  |
+| class34             | [Class34](./ReadingClass34.md)  |
+| class35             | [Class35](./ReadingClass35.md)  |
+| class36             | [Class36](./ReadingClass36.md)  |
+| class37             | [Class37](./ReadingClass37.md)  |
+| class38             | [Class38](./ReadingClass38.md)  |
+| class39             | [Class39](./ReadingClass39.md)  |
+| class41             | [Class341](./ReadingClass40.md) |
+| class42             | [Class41](./ReadingClass42.md)  |
+
 
 
 
